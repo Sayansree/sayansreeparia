@@ -1,0 +1,63 @@
+*{margin: 0;padding: 0;}
+body{
+    background-color: #E1F5FE;
+    font-family: 'Amatic SC', monospace;
+    color: darkcyan;
+}
+/* navigation */
+header{  
+    /* contains logo an */
+    width:100%;
+    display: flex;
+    height: 10vh;
+}
+.navigation{
+    width: 100%; height: 10vh;  
+    align-items: center;
+    display: flex;
+    background-color:#102e44;
+    color:#03A9F4;
+}
+.logo{
+    width: 30%;
+    left: 100%;
+}
+nav{
+    width: 70%;
+    right: 100%;display: flex;
+    align-content: space-around; 
+    display:flex;
+    align-items:center ;
+}
+
+nav a{
+    text-align: justify;
+    text-decoration: solid;
+    font-family: monospace;
+    font-size: 2vh;
+    color: darkcyan;
+    margin:4vw;
+}
+
+main{
+    
+}
+.row{
+    width: 100%; height: 40vh;
+    align-content: center;
+    text-align: center;   
+    display: flex;
+}
+#top{
+    height: 20vh;
+}
+#topContent{
+    width: 100%;
+    align-content: space-around;
+    text-align: center;   
+    margin :2vh;
+    padding: 2vh;
+    color:#00838F;
+    
+    font-size: 4vh;
+}
