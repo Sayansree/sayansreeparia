@@ -16,9 +16,15 @@ header{
     background-color:#102e44;
     color:#03A9F4;
 }
-.logo{
+.logo {
     width: 30%;
     left: 100%;
+}
+.logo img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height:10vh;
 }
 nav{
     width: 70%;
