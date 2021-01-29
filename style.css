@@ -71,13 +71,12 @@ main{
     right: 100%;
     font-size: 2.5vh;
     font-family: 'Coming Soon';
+    padding:1vh 3vw 1vh 1vw;
 }
 ul{
-    list-style-position: initial;
+    list-style-position: inside;
     text-align: justify;
 }
-
-
 #NOTICE{
     color: rgb(255, 177, 60);
       
